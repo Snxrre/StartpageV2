@@ -11,15 +11,15 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Chungus',
+	name: '',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Fire Walk with Me,',
+	greetingMorning: 'Fire Walk with Me',
 	greetingAfternoon: 'Хочу перемен!',
-	greetingEvening: 'Rox the 40oz,',
+	greetingEvening: 'Rox the 40oz',
 	greetingNight: 'цой жив!',
 
 	// Layout
