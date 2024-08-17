@@ -59,20 +59,20 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Real-Debrid',
+			icon: 'download',
+			link: 'https://real-debrid.com/torrents',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Translate',
+			icon: 'languages',
+			link: 'https://translate.google.com/',
 		},
 		{
 			id: '4',
 			name: 'Whatsapp',
-			icon: 'whatsapp',
+			icon: 'message-square',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'bot',
 			link: 'https://www.reddit.com/',
 		},
 	],
