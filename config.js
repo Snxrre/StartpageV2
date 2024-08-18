@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: '',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'ProtonDB',
+					link: 'https://www.protondb.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'ChatGPT',
+					link: "https://chatgpt.com/",
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Yandex',
+					link: 'https://yandex.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Catppuccin',
+					link: 'https://github.com/catppuccin/catppuccin?tab=readme-ov-file#-palette',
 				},
 			],
 		},
