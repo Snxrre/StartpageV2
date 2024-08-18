@@ -154,10 +154,6 @@ const CONFIG = {
 					name: 'Technik',
 					link: 'https://technikausleihe.fh-kiel.de/',
 				},
-        {
-          name: "balls",
-          link: "test",
-        },
 			],
 		},
 		{
