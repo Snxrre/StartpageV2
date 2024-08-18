@@ -19,7 +19,7 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'Fire Walk with Me',
 	greetingAfternoon: 'Хочу перемен!',
-	greetingEvening: 'Rox the 40oz',
+	greetingEvening: 'Rock the 40oz',
 	greetingNight: 'цой жив!',
 
 	// Layout
