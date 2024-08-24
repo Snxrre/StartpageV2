@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://learn.fh-kiel.de/my/courses.php',
 				},
 				{
-					name: 'Webmail',
+					name: 'Cloud',
 					link: 'https://dfncloud.fh-kiel.de/',
 				},
 				{
