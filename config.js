@@ -169,8 +169,8 @@ const CONFIG = {
 					link: "https://chatgpt.com/",
 				},
 				{
-					name: 'Yandex',
-					link: 'https://yandex.com/',
+					name: 'Arch Wiki',
+					link: 'https://wiki.archlinux.org/',
 				},
 				{
 					name: 'Catppuccin',
